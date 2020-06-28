@@ -34,8 +34,8 @@ Hint: Follow the
 1. Delete your branch from your local repository
 1. Synchronize your fork with the project repository
 
-Do not forget to add a testcase to your solution. Tests in Python-Docstrings in
-`my_solution.py` can be tested with `python3 -m doctest my_solution.py`.
+Do not forget to add a testcase to your solution. Tests in Python-Docstrings 
+in `my_solution.py` can be tested with `python3 -m doctest my_solution.py`.
 
 Solutions will be tested with a CI-workflow defined in 
 [python-app.yml](.github/workflows/python-app.yml).
