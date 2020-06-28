@@ -1,7 +1,7 @@
 
 def fizzbuzz(n):
     """
-    >>> fizzbuzz(11)
+    >>> fizzbuzz(1)
     1
     >>> fizzbuzz(3)
     Fizz
