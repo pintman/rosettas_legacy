@@ -37,6 +37,9 @@ Hint: Follow the
 Do not forget to add a testcase to your solution. Tests in Python-Docstrings in
 `my_solution.py` can be tested with `python3 -m doctest my_solution.py`.
 
+Solutions will be tested with a CI-workflow defined in 
+[python-app.yml](.github/workflows/python-app.yml).
+
 Add the solution to the list below.
 
 Solutions
