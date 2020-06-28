@@ -14,7 +14,11 @@ describes the problem and a solution file with the solution itself.
 Follow the 
 [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) 
 
+Add the solution to the list below.
+
 Solutions
 ---------
 
-* [fizzbuzz](fizzbuzz/README.md)
+All solutions to problems.
+
+* [fizzbuzz](fizzbuzz/README.md): Printing numbers
