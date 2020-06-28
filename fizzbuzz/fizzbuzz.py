@@ -9,6 +9,8 @@ def fizzbuzz(n):
     Fizz
     >>> fizzbuzz(30)
     FizzBuzz
+    >>> fizzbuzz(10)
+    Buzz
     """
     if n % 3 == 0 and n % 15 == 0:
         print("FizzBuzz")
