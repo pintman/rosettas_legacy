@@ -44,4 +44,4 @@ Solutions
 
 All solutions to problems.
 
-* [fizzbuzz](fizzbuzz/README.md): Printing numbers
+* [fizzbuzz](fizzbuzz/README.md): Printing numbers or the word Fizz, Buzz or FizzBuzz.
