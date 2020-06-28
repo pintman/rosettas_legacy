@@ -34,6 +34,9 @@ Hint: Follow the
 1. Delete your branch from your local repository
 1. Synchronize your fork with the project repository
 
+Do not forget to add a testcase to your solution. Tests in Python-Docstrings in
+``my_solution.py``can be tested with ``python3 -m doctest my_solution.py``.
+
 Add the solution to the list below.
 
 Solutions
