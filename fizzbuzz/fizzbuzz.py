@@ -1,10 +1,24 @@
-for i in range(1, 101):
-    if i % 15 == 0:
+
+def fizzbuzz(n):
+    """
+    >>> fizzbuzz(1)
+    1
+    >>> fizzbuzz(3)
+    Fizz
+    >>> fizzbuzz(6)
+    Fizz
+    >>> fizzbuzz(30)
+    FizzBuzz
+    """
+    if n % 3 == 0 and n % 15 == 0:
         print("FizzBuzz")
-    elif i % 3 == 0:
+    elif n % 3 == 0:
         print("Fizz")
-    elif i % 5 == 0:
+    elif n % 5 == 0:
         print("Buzz")
     else:
-        print(i)
+        print(n)
 
+if __name__ == '__main__':
+    for i in range(1, 101):
+        fizzbuzz(i)
