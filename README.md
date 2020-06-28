@@ -8,7 +8,7 @@ of the problems from the
 How To Contribute
 -----------------
 
-Each problem has its own sub-directory. It contains a README.md file that
+Each problem has its own sub-directory. It contains a `README.md` file that
 describes the problem and ond or more solution files with the solution itself.
 
 Hint: Follow the 
@@ -35,7 +35,7 @@ Hint: Follow the
 1. Synchronize your fork with the project repository
 
 Do not forget to add a testcase to your solution. Tests in Python-Docstrings in
-``my_solution.py``can be tested with ``python3 -m doctest my_solution.py``.
+`my_solution.py` can be tested with `python3 -m doctest my_solution.py`.
 
 Add the solution to the list below.
 
