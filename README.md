@@ -9,7 +9,7 @@ How To Contribute
 -----------------
 
 Each problem has its own sub-directory. It contains a `README.md` file that
-describes the problem and ond or more solution files with the solution itself.
+describes the problem and one or more solution files with the solution itself.
 
 Hint: Follow the 
 [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/) 
